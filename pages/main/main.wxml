@@ -1,0 +1,8 @@
+<view class="container">
+  <image class="touxiang" src='/images/touxiang.png'></image>
+  <text style="margin-top:60rpx">Hello,知己</text>
+  <view class="incontainer">
+    <text class="ziti2">登录</text>
+  </view>
+
+</view>

@@ -1,0 +1,8 @@
+{
+  "pages": [
+  "pages/main/main"
+],
+"window": {
+  "navigationBarBackgroundColor": "#FFF5EE"
+}
+}
