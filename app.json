@@ -1,8 +1,10 @@
 {
   "pages": [
-  "pages/main/main"
-],
-"window": {
-  "navigationBarBackgroundColor": "#FFF5EE"
-}
+    "pages/first/first",
+    "pages/main/main"
+    
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#FFF5EE"
+  }
 }
